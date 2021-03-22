@@ -1,0 +1,22 @@
+2020-03-24 18:53:37.845 [main] INFO  testResources.Listeners onTestStart - The test execution started
+2020-03-24 18:53:42.633 [main] INFO  pageObjects.HomePage ClickLogin - Click the login option
+2020-03-24 18:53:42.755 [main] INFO  pageObjects.LoginPage EnterEmail - The email information has been entered
+2020-03-24 18:53:42.833 [main] INFO  pageObjects.LoginPage EnterPassword - The password information has been entered
+2020-03-24 18:53:43.955 [main] INFO  pageObjects.LoginPage ClickLogIn - Click the login option
+2020-03-24 18:53:43.963 [main] INFO  testResources.Listeners onTestSuccess - The test execution finished successfully
+2020-03-24 18:53:54.861 [main] INFO  testResources.Listeners onTestStart - The test execution started
+2020-03-24 18:53:58.782 [main] INFO  pageObjects.HomePage ClickLogin - Click the login option
+2020-03-24 18:53:58.878 [main] INFO  pageObjects.LoginPage EnterEmail - The email information has been entered
+2020-03-24 18:53:58.950 [main] INFO  pageObjects.LoginPage EnterPassword - The password information has been entered
+2020-03-24 18:53:59.905 [main] INFO  pageObjects.LoginPage ClickLogIn - Click the login option
+2020-03-24 18:53:59.906 [main] INFO  testResources.Listeners onTestSuccess - The test execution finished successfully
+2020-03-24 18:54:10.814 [main] INFO  testResources.Listeners onTestStart - The test execution started
+2020-03-24 18:54:14.136 [main] INFO  pageObjects.HomePage ClickLogin - Click the login option
+2020-03-24 18:54:14.208 [main] INFO  pageObjects.LoginPage EnterEmail - The email information has been entered
+2020-03-24 18:54:14.286 [main] INFO  pageObjects.LoginPage ClickLogIn - Click the login option
+2020-03-24 18:54:14.287 [main] INFO  testResources.Listeners onTestSuccess - The test execution finished successfully
+2020-03-24 18:54:22.387 [main] INFO  testResources.Listeners onTestStart - The test execution started
+2020-03-24 18:54:25.750 [main] INFO  pageObjects.HomePage ClickLogin - Click the login option
+2020-03-24 18:54:25.849 [main] INFO  pageObjects.LoginPage EnterEmail - The email information has been entered
+2020-03-24 18:54:26.276 [main] INFO  pageObjects.LoginPage ClickLogIn - Click the login option
+2020-03-24 18:54:26.277 [main] INFO  testResources.Listeners onTestSuccess - The test execution finished successfully
